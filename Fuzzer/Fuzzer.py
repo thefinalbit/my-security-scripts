@@ -6,8 +6,6 @@
 #              to fuzz the binary and analyze input crashes.
 # =================================================================
 
-import sys
-# بقية الكود الخاص بكِ يستمر من هنا...
 import subprocess
 import sys
 
