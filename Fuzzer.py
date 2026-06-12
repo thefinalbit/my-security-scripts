@@ -1,7 +1,7 @@
 # =================================================================
 # Challenge: whekkees's my first simple crack me by whekkees
 # Challenge Link: https://crackmes.one/crackme/69b18083ddd6176826ae8947
-# Writeup Link: [ضع_رابط_مقال_الـ_Writeup_هنا]
+# Writeup Link: [https://github.com/thefinalbit/ctf-writeups/blob/main/Reverse%20Engineering/whekkees's-my-first-simple-crack-me-by-whekkees.md]
 # Description: This helper script was created with AI assistance 
 #              to fuzz the binary and analyze input crashes.
 # =================================================================
